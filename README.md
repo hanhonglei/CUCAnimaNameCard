@@ -5,7 +5,7 @@ The file can be open in [Adobe Illustrator](https://www.adobe.com/cn/products/il
 
 The source files zipped in **HongleiHanNamecard.zip** can be found in this repository, and can be directly downloaded [here](https://github.com/Leohan2000/CUCAnimaNameCard/blob/master/HongleiHanNamecard.zip)
 
-The final image is like this.
+The final front and back images are like these.
 
 <img src="https://github.com/hanhonglei/CUCAnimaNameCard/blob/master/%E6%AD%A3%E9%9D%A2.jpg" width="200" />
 

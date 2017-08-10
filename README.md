@@ -7,6 +7,8 @@ The source files zipped in **HongleiHanNamecard.zip** can be found in this repos
 
 The final image is like this.
 
+<img src="https://github.com/hanhonglei/CUCAnimaNameCard/blob/master/%E6%AD%A3%E9%9D%A2.jpg" width="200" />
+
 ![](https://github.com/hanhonglei/CUCAnimaNameCard/blob/master/%E6%AD%A3%E9%9D%A2.jpg =250x)
 
 ![](https://github.com/hanhonglei/CUCAnimaNameCard/blob/master/%E8%83%8C%E9%9D%A2.jpg =250x)
